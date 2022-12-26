@@ -1,0 +1,39 @@
+operators:
+An operator is a mathematical symbol that produces a result based on two values (or variables). In the following table, you can see some of the simplest operators, along with some examples to try in the JavaScript console.
+src: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics
+
+Addition operator (+)
+===================
+* when the datatype is of type string then the addition operator (combines, concatenates) the strings.
+* when the datatype is of type number then the addition operator (adds) the numbers
+* Returns a value/result
+
+
+Subtraction, Multiplication, Division (-, *, /)
+=======================================
+All of these operators only work on numeric values.
+-, *, /
+* returns a value/result
+
+Assignment operator (=)
+==================
+This assigns a value to a variable - what I find interesting about this, is we can borrow the knowledge of swift's assignment operators and consider if this operator also returns a value.
+* does not return a value/result.
+
+String Equality (===)
+========================
+* Returns a value
+* Performs an operatorion to see if two values are equal - It returns a (boolean) result
+
+Not (!)
+===================
+* Prefix operator
+* Turns a true value into false.
+
+
+Does Not Equal (!==)
+==============
+
+
+
+

@@ -1,0 +1,23 @@
+Variables are containers that store values.
+- A container has a size.
+- A container has a name
+- A container has a type - ()
+
+let thisIsAVariable = "Shiko";
+- A variable has a identifier (name) - and then name of a variable is called an identifier 
+    * Cannot start with a number
+    * The identifier cannot be the same as a reserved keywork.
+    * An identifier cannot have a space between its string
+
+- A variable has a type - data type
+    * 
+- JavaScript is case sensitive
+
+
+
+
+
+
+
+Terms
+- keyword.

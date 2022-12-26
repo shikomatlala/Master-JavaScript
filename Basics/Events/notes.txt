@@ -1,0 +1,4 @@
+===================
+WHAT IS AN EVENT.
+====================
+These are code structures that listen for activity in the browser, and run code in response.

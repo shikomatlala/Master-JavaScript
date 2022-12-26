@@ -1,0 +1,3 @@
+Functions
+==============
+Functions are a way of packaging functionality that you wish to reuse.
